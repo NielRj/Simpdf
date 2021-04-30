@@ -13,7 +13,7 @@ Simple pdf editor while preserving structure and format.
 
   
 
-`pip install -r requirements.txt`
+`pip install -Ivr requirements.txt`
 
   
 
